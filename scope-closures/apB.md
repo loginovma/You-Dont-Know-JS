@@ -209,7 +209,7 @@ function useCalc(calc,keys) {
 
 useCalc(calc,"4+3=");           // 4+3=7
 useCalc(calc,"+9=");            // +9=16
-useCalc(calc,"*8=");            // *5=128
+useCalc(calc,"*8=");            // *8=128
 useCalc(calc,"7*2*3=");         // 7*2*3=42
 useCalc(calc,"1/0=");           // 1/0=ERR
 useCalc(calc,"+3=");            // +3=ERR
